@@ -1,0 +1,9 @@
+### PROGRAMATICALLY GENERATED, DO NOT MODIFY
+chapters:
+- class: level_0
+  title: Home
+  url: /
+- class: level_0
+  title: Quickstart
+  url: chapters/Quadrature
+first_chapter_url: chapters/Quadrature
